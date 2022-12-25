@@ -2,6 +2,8 @@
 
 ## Demo-Preview
 
+[The page link](https://tarekelkanaria.github.io/1xbet-page/)
+
 ## Table of contents
 
 - Static Web page like 1XBET homepage created only in HTML and CSS.
